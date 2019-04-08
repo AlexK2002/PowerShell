@@ -1,2 +1,2 @@
 # PowerShell
-Useful scripts
+Useful scripts to get thing done.
