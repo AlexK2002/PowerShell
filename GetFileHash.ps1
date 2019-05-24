@@ -4,3 +4,7 @@
 
 
 Get-FileHash filepath/filename -Algorithm SHA1 | Format-List
+
+OR instead we can use builtin tool certutil:
+
+certutil -hashfile "Filename/File path" MD5/SHA256/SHA512
